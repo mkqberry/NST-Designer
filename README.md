@@ -1,4 +1,5 @@
 # NST-Designer
+Run the 'nst.py' file on console
 ### Combines your Content and Style images using Neural Style Transfer.
 ### Tensorflow hub was used for neural style transfer model.
 https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
